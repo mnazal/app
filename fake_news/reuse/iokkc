@@ -1,0 +1,9 @@
+ Container(
+            width: double.infinity,
+            decoration: const BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage("fakenewsjpg.jpg"),
+                fit: BoxFit.cover,
+              ),
+            ),
+          ),
